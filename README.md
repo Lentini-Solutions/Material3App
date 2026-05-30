@@ -1,4 +1,6 @@
 # JCMaterialApp
+<img width="1024" height="1024" alt="material3" src="https://github.com/user-attachments/assets/f409597a-44d4-4607-80ef-a4b5e37036f9" />
+
 Aplicacion Android basada en Jetpack Compose. Este repositorio es un fork/adaptacion de un proyecto existente, por lo que la documentacion se enfoca en la estructura actual y en los cambios realizados para llevar la interfaz hacia Material 3.
 
 ## Objetivo del fork

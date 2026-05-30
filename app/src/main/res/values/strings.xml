@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JC Material App</string>
+    <string name="register_text_form">Registro de Usuario</string>
+    <string name="hint_name">Nombre</string>
+    <string name="required">Requerido</string>
+    <string name="hint_surname">Apellido</string>
+    <string name="hint_height">Estatura</string>
+    <string name="text_btn_register">Registrar</string>
+    <string name="error_min_height_valid">Estatura Mínima: 50 </string>
+    <string name="dialog_ok">OK</string>
+    <string name="btn_confirm_dialog_custom">OK</string>
+    <string name="btn_cancel_dialog_custom">Cancelar</string>
+    <string name="dialog_title">Datos Obtenidos</string>
+    <string name="clean">Limpiar</string>
+    <string name="hint_birth_date">Fecha de Nacimiento</string>
+    <string name="section_occupation">Ocupación:</string>
+    <string name="hint_notes">Notas</string>
+    <string name="text_accept_conditions">Aceptar Términos y Condiciones</string>
+</resources>
